@@ -1,0 +1,14 @@
+Only Up
+
+
+
+player, GameManager
+
+UI, Scene
+
+scene1
+
+scene2
+
+scene3
+
