@@ -611,4 +611,11 @@ FodyWeavers.xsd
 ### VisualStudio Patch ###
 # Additional files built by Visual Studio
 
+
+# JetBrains Rider / IntelliJ
+.idea/
+*.iml
+
+
+
 # End of https://www.toptal.com/developers/gitignore/api/unity,macos,windows,rider,visualstudio,visualstudiocode
